@@ -1,6 +1,6 @@
 ### Hola! Soc la Lucía <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=6e6e6e&center=verdadero&vCenter=verdadero&width=500&lines=Programadora+web.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=6e6e6e&center=verdadero&vCenter=verdadero&width=500&lines=<Programadora+web/>)](https://git.io/typing-svg)
 
 ### Llenguatges
 
